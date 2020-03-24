@@ -1,7 +1,7 @@
 {
   "name": "travel-shop-app",
   "version": "1.0.0",
-  "description": "react boiler plate",
+  "description": "A holiday ecommerce app",
   "main": "index.js",
   "engine": {
     "node": "10.16.0",
