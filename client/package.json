@@ -5,7 +5,7 @@
   "dependencies": {
     "antd": "^3.24.1",
     "async": "^3.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "formik": "^1.5.8",
     "moment": "^2.24.0",
     "multer": "^1.4.2",
